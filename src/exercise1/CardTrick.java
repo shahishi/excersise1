@@ -54,6 +54,7 @@ public class CardTrick {
 
     private static void printInfo() {
     // This commit is made in Github aswell
+    // I am done
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
         
