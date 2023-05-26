@@ -53,7 +53,7 @@ public class CardTrick {
     }
 
     private static void printInfo() {
-    
+    // This commit is made in Github aswell
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
         
