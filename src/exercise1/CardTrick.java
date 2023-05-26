@@ -11,6 +11,7 @@ import java.util.Random;
 
 public class CardTrick {
     //finally my code is working
+    //This commit was made in Github
     public static void main(String[] args) {
         
         Card[] hand = new Card[7];
